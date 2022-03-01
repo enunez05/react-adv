@@ -1,5 +1,5 @@
 import { ProductButtons, ProductCard, ProductImage, ProductTitle } from "../components";
-
+import '../styles/custom-styles.css';
 // objeto literal, que puede ser cambiado por un objeto desde una api
 const product = {
     id: '1',
@@ -17,16 +17,33 @@ export const ShoppingPage = () => {
 				flexWrap: 'wrap',
 				gap: '1.5rem'
 			}}>
-				<ProductCard product={ product }>
-					<ProductCard.Image />
-					<ProductCard.Title title={'Cafe bien bueno alv'} />
-					<ProductCard.Buttons />
+				<ProductCard
+					product={ product }
+					className="bg-dark text-white"
+				>
+					<ProductCard.Image className="custom-image" />
+					<ProductCard.Title title={'Cafe bien bueno alv'} className="text-white" />
+					<ProductCard.Buttons className="custom-buttons"/>
 				</ProductCard>
-				<ProductCard product={ product }>
+
+				<ProductCard
+					product={ product }
+					className="bg-dark text-white"
+				>
+					<ProductImage className="custom-image" />
+					<ProductTitle className="text-white"/>
+					<ProductButtons className="custom-buttons" />
+				</ProductCard>
+
+				<ProductCard
+					product={ product }
+					style={{backgroundColor: '#70D1F8'}}
+				>
 					<ProductImage />
-					<ProductTitle/>
+					<ProductTitle />
 					<ProductButtons />
 				</ProductCard>
+
 			</div>
 		</div>
 	</>
