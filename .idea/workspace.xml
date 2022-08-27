@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c63456bc-9c90-40a7-9514-b1804eaf323a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/assets/no-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/components/ProductButtons.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/components/ProductCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/components/ProductImage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/components/ProductTitlet.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/components/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/hooks/useProduct.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/interfaces/interfaces.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/pages/ShoppingPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/styles/styles.module.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="component-extend-styles" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="ReactCompountPattern" />
+                    <option name="lastUsedInstant" value="1661568689" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="component-extend-styles" />
+                    <option name="lastUsedInstant" value="1661568676" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="component-extendStyles" />
+                    <option name="lastUsedInstant" value="1661568538" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Dv9252GFXLrKlXfhLiWTg1Fi2D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/Sites/ReactPRO/react-adv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "F:\\Sites\\ReactPRO\\react-adv\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c63456bc-9c90-40a7-9514-b1804eaf323a" name="Changes" comment="" />
+      <created>1661568480556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661568480556</updated>
+      <workItem from="1661568483366" duration="330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="component-extend-styles" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
