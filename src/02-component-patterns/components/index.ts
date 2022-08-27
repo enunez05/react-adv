@@ -3,11 +3,11 @@ import { ProductCardHOCProps } from '../interfaces/interfaces';
 
 import { ProductButtons } from './ProductButtons';
 import { ProductImage } from './ProductImage';
-import { ProductTitle } from './ProductTitlet';
+import { ProductTitle } from './ProductTitle';
 
 export { ProductButtons } from './ProductButtons';
 export { ProductImage } from './ProductImage';
-export { ProductTitle } from './ProductTitlet';
+export { ProductTitle } from './ProductTitle';
 
 export const ProductCard: ProductCardHOCProps = Object.assign(ProdcutCardHOC,{
      Title: ProductTitle,
