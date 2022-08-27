@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c63456bc-9c90-40a7-9514-b1804eaf323a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/assets/no-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/components/ProductButtons.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/components/ProductCard.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/components/ProductImage.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/components/ProductTitlet.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/components/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/hooks/useProduct.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/interfaces/interfaces.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/pages/ShoppingPage.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02-component-pattern/styles/styles.module.css" beforeDir="false" />
-    </list>
+    <list default="true" id="c63456bc-9c90-40a7-9514-b1804eaf323a" name="Changes" comment="rename folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,21 +55,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/Sites/ReactPRO/react-adv",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "ts.external.directory.path": "F:\\Sites\\ReactPRO\\react-adv\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Sites/ReactPRO/react-adv&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;F:\\Sites\\ReactPRO\\react-adv\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -90,7 +79,16 @@
       <option name="presentableId" value="Default" />
       <updated>1661568480556</updated>
       <workItem from="1661568483366" duration="330000" />
+      <workItem from="1661568821634" duration="305000" />
     </task>
+    <task id="LOCAL-00001" summary="rename folder">
+      <created>1661569037751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661569037751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rename folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename folder" />
   </component>
 </project>
