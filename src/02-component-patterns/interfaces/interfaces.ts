@@ -6,7 +6,8 @@ import { Props as ProductTitleProps } from "../components/ProductTitle";
 export interface Product {
 	id:number,
 	title:string,
-	img?:string
+	img?:string,
+	value?:number
 }
 
 export interface ProductContextProps {
@@ -20,4 +21,16 @@ export interface ProductCardHOCProps {
 	Buttons: (Props:ProductButtonsProps) => JSX.Element
 	Image: (Props:ProductImageProps) => JSX.Element,
 	Title: (Props: ProductTitleProps) => JSX.Element,
+}
+
+export interface onChangeArgs {
+	product: Product,
+	count: number
+}
+
+export interface ProductInCart extends Product {
+    // id:number, extended
+	// title:string,extended
+	// img?:string extended
+    count:number
 }
