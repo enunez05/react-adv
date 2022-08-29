@@ -13,10 +13,23 @@ export const ShoppingPage = () => {
             <ProductCard
                 product={product}
                 className="bg-dark text-white"
+                initialValues={{
+                    count:4,
+                    maxCount:10,
+                }}
             >
-                <ProductImage className="custom-image" />
-                <ProductTitle className="text-white" activeClassName="active" />
-                <ProductButtons className="custom-buttons" />
+                {
+                    (args) => (
+                        <>
+                            <ProductImage className="custom-image" />
+                            <ProductTitle className="text-white" activeClassName="active" />
+                            <ProductButtons className="custom-buttons" />
+                            {/* <button onClick={reset}>Reset</button> */}
+
+                            {JSON.stringify(args, null, 3)}
+                        </>
+                    )
+                }
             </ProductCard>
         </div>
     )
